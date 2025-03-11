@@ -22,3 +22,7 @@ Thumbs.db
 # Ignore Tableau Workbooks (optional)
 *.twb
 *.twbx
+
+# Ignore Excel and CSV Workbooks
+*.csv 
+*.xlsx
