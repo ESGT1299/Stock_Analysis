@@ -160,4 +160,4 @@ This project is part of my **financial data science portfolio**, demonstrating e
 
 For feedback, collaboration, or inquiries, feel free to reach out!
 
-📧 **Contact:** [https://www.linkedin.com/in/erick-guagua-14b143214/]
+📧 **Contact:** [Linkedin](https://www.linkedin.com/in/erick-guagua-14b143214/)
