@@ -3,7 +3,8 @@
 ## 📝 Project Overview
 This project provides **a complete financial analysis** of **Bitcoin (BTC-USD)**, leveraging **technical indicators** to study price movements and **ARIMA forecasting** for predicting future trends. The analysis is divided into two key sections:
 
-1️⃣ **Historical Data Analysis** using **Exponential Moving Averages (EMA), Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), and Trading Volume** to evaluate past price movements.  
+1️⃣ **Historical Data Analysis** using **Exponential Moving Averages (EMA), Moving Average Convergence Divergence (MACD), Relative Strength Index (RSI), and Trading Volume** to evaluate past price movements.
+
 2️⃣ **Stock Price Forecasting** using an **optimized ARIMA model**, predicting **Bitcoin’s price for the next 30 days**.
 
 The **historical data is sourced from a dedicated ETL Pipeline project**, ensuring **data consistency and quality** before analysis. While **technical analysis is visualized in Tableau**, **forecasting is conducted and plotted exclusively in Python**, providing accurate projections based on time-series modeling.
