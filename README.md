@@ -146,8 +146,11 @@ This project successfully integrates technical analysis with forecasting to prov
 
 ## 📌 Key Takeaways
 ✔️ **Technical indicators provide actionable insights** into stock market trends.
+
 ✔️ **ARIMA modeling enhances decision-making** with short-term price predictions.
+
 ✔️ **Tableau dashboards enable effective communication** of financial trends.
+
 ✔️ **Combining multiple analysis techniques improves forecasting accuracy**.
 
 ---
