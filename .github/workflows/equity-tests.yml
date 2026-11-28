@@ -1,0 +1,15 @@
+name: Equity baseline tests
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  equity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install -r requirements-test.txt
+      - run: python -W error -m unittest test_equity_research -v
+      - run: python -m py_compile equity_research.py
